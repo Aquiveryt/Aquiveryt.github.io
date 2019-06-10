@@ -8,8 +8,8 @@ header{
 }
 footer{
 	width: 100%;
-	display: flex;
-	background: blue;
+	
+	background: red;
 }
 
 a{
@@ -37,4 +37,7 @@ nav a{
 }
 .header-nav a:hover{
 	border-bottom: 2px solid #fff324;
+}
+.footer-nav{
+Text-align: center;
 }
