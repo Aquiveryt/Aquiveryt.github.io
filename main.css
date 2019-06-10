@@ -1,0 +1,40 @@
+{
+margin:0;
+padding: 0;	
+}
+header{
+	width: 100%;
+	background: #aa5;
+}
+footer{
+	width: 100%;
+	display: flex;
+	background: blue;
+}
+
+a{
+	text-decoration: none;
+}
+ul{
+	width: 100%;
+	display: inline-flex;
+	list-style-type: none;
+	justify-content: space-around;
+}
+
+li{
+	margin-left: 1%;
+	justify-content: space-around;
+}
+nav a{
+	text-decoration: none;
+	color: #ff4;
+	text-transform: uppercase;
+	margin-left:5%;
+}
+.header-nav{
+	text-align: center;
+}
+.header-nav a:hover{
+	border-bottom: 2px solid #fff324;
+}
